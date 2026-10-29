@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Firewall-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TinyWall Free Installer** — TinyWall is a free, lightweight Windows firewall controller that enhances the built-in Windows Firewall with an easy-to-use interface. Works without internet access, no account required. Full offline installation.
+**💻 TinyWall Free Installer** — TinyWall is a free, lightweight Windows firewall controller that enhances Windows Firewall by providing an easy-to-use interface for blocking all network access by default and whitelisting only trusted applications. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TinyWall
 
-TinyWall is a free, lightweight Windows firewall controller that enhances the built-in Windows Firewall with an easy-to-use interface. It operates in whitelist mode by default, blocking all outbound connections except those you explicitly allow.
+TinyWall is a free, lightweight Windows firewall controller that enhances Windows Firewall by providing an easy-to-use interface for blocking all network access by default and whitelisting only trusted applications. Unlike third-party firewall replacements, TinyWall works with Windows Firewall rather than replacing it, maintaining system security with minimal resource overhead and a non-intrusive interface.
 
 ---
 
 ## ❌ Problem: TinyWall is hard to access
 
-- **Windows Only** — Extends Windows Firewall; not available on other platforms
-- **Whitelist Complexity** — Default deny-all approach requires allowlisting legitimate apps manually
-- **No Traffic Logging** — Cannot log network connections for detailed traffic analysis
-- **Development Pace** — Updates arrive infrequently
+- **Windows Only** — Windows Firewall enhancement; no cross-platform equivalent
+- **Whitelist Management** — Applications must be manually whitelisted; initial setup requires patience
+- **Advanced Rules** — Creating complex per-port/IP rules less accessible than commercial firewalls
+- **Default Block Mode** — All-block approach can temporarily disrupt new application network access
 
 ---
 
@@ -121,7 +121,7 @@ TinyWall is a free, lightweight Windows firewall controller that enhances the bu
 
 ---
 
-**TinyWall Free Installer** — TinyWall is a free, lightweight Windows firewall controller that enhances the built-in Windows Firewall with an easy-to-use interface. Install without internet connection today!
+**TinyWall Free Installer** — TinyWall is a free, lightweight Windows firewall controller that enhances Windows Firewall by providing an easy-to-use interface for blocking all network access by default and whitelisting only trusted applications. Install without internet connection today!
 
 <div align="center">
 
